@@ -5,8 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      hello
-    
+      hello, this is a pwa!
+      Please add app shortcut to your homescreen.
     </div>
   );
 }
